@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ShenXin.unity
     guid: 163e058d819d101459e1b9ccaf012e80
+  - enabled: 1
+    path: Assets/Scenes/YangYinuo.unity
+    guid: 21ab90696419e6641a8cef9f24430508
   m_configObjects: {}
